@@ -1,0 +1,9 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:52:25:mcuxClSession_allocateWords_cpuWa	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandom/inc/internal/mcuxClRandom_Internal_Functions.h:63:46:mcuxClRandom_castToModeDescriptor	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandom/inc/internal/mcuxClRandom_Internal_Functions.h:76:38:mcuxClRandom_castToContext	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_NormalMode.c:66:52:mcuxClRandomModes_NormalMode_initFunction	152	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_NormalMode.c:171:52:mcuxClRandomModes_NormalMode_reseedFunction	128	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_NormalMode.c:266:52:mcuxClRandomModes_NormalMode_generateFunction_PrDisabled	128	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_NormalMode.c:348:52:mcuxClRandomModes_NormalMode_selftestFunction	120	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_NormalMode.c:414:52:mcuxClRandomModes_selftest_VerifyArrays	48	static

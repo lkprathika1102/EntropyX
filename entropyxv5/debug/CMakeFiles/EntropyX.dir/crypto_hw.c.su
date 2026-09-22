@@ -1,0 +1,5 @@
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/crypto_hw.c:8:5:mbedtls_hardware_poll	24	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/crypto_hw.c:43:13:sha256_transform	312	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/crypto_hw.c:66:13:compute_fast_sha256	160	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/crypto_hw.c:90:6:crypto_hw_init	8	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/crypto_hw.c:99:6:crypto_hw_sha256	24	static

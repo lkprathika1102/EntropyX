@@ -1,0 +1,7 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:134:20:mcuxClPkc_inline_ps1_setLengthReg	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:141:20:mcuxClPkc_inline_ps2_setLengthReg	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:148:24:mcuxClPkc_inline_ps1_getLengthReg	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:184:20:mcuxClPkc_inline_waitForFinish	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMath/src/mcuxClMath_ExactDivide.c:49:35:mcuxClMath_ExactDivide	168	static

@@ -1,0 +1,7 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:61:20:mcuxClEls_setInput0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:95:20:mcuxClEls_setInput2_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:116:20:mcuxClEls_setOutput_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:122:20:mcuxClEls_setKeystoreIndex0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:149:20:mcuxClEls_startCommand	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:182:20:mcuxClEls_isBusy	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_Hmac.c:27:63:mcuxClEls_Hmac_Async	64	static

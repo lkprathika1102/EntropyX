@@ -1,0 +1,10 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:85:25:mcuxClSession_getCpuWaBuffer	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:168:20:mcuxClSession_freeWords_pkcWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:61:25:mcuxClKey_getKeyData	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:153:22:mcuxClKey_getTypeInfo	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:177:39:mcuxClKey_getAlgoId	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEcc/inc/internal/mcuxClEcc_Internal.h:79:34:mcuxClEcc_castToEccCpuWorkarea	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_MontDH_KeyAgreement.c:49:49:mcuxClEcc_MontDH_KeyAgreement_Core	192	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_MontDH_KeyAgreement.c:140:49:mcuxClEcc_MontDH_KeyAgreement	80	static

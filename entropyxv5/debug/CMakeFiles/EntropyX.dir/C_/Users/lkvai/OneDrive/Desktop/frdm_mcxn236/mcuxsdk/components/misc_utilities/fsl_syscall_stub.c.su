@@ -1,0 +1,12 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:44:27:_write	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:51:27:_read	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:59:27:_close	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:66:27:_lseek	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:73:27:_fstat	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:80:27:_getpid	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:87:27:_isatty	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:94:27:_kill	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:101:27:_link	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:108:27:_unlink	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:115:27:_open	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/misc_utilities/fsl_syscall_stub.c:122:27:_stat	16	static

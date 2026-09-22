@@ -1,0 +1,5 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:90:25:mcuxClPkc_inline_offset2Ptr	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:184:20:mcuxClPkc_inline_waitForFinish	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_Mont_Internal_SecureScalarMult_XZMontLadder.c:65:49:mcuxClEcc_Mont_SecureScalarMult_XZMontLadder	248	static

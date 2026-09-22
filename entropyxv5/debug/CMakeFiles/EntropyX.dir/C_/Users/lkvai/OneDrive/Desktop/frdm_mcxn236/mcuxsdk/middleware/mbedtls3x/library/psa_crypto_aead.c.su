@@ -1,0 +1,13 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:425:30:psa_get_key_type	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:26:21:psa_aead_setup	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:117:14:mbedtls_psa_aead_encrypt	472	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:211:21:psa_aead_unpadded_locate_tag	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:229:14:mbedtls_psa_aead_decrypt	472	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:318:14:mbedtls_psa_aead_encrypt_setup	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:339:14:mbedtls_psa_aead_decrypt_setup	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:359:14:mbedtls_psa_aead_set_nonce	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:417:14:mbedtls_psa_aead_set_lengths	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:441:14:mbedtls_psa_aead_update_ad	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:481:14:mbedtls_psa_aead_update	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:546:14:mbedtls_psa_aead_finish	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_aead.c:620:14:mbedtls_psa_aead_abort	16	static

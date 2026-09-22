@@ -1,0 +1,3 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:52:25:mcuxClSession_allocateWords_cpuWa	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClAeadModes/src/mcuxClAeadModes_Els_Oneshot.c:30:51:mcuxClAeadModes_crypt	152	static

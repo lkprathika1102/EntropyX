@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "drivers/cns_adc",
+		"source" : "C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/cns_adc"
+	}
+}

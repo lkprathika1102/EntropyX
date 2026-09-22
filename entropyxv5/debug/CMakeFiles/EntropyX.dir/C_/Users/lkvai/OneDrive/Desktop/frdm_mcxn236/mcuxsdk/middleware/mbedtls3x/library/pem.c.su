@@ -1,0 +1,11 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/error.h:142:19:mbedtls_error_add	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:38:6:mbedtls_pem_init	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:47:12:pem_get_iv	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:75:12:pem_pbkdf1	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:153:12:pem_des_decrypt	176	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:183:12:pem_des3_decrypt	448	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:215:12:pem_aes_decrypt	352	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:244:12:pem_check_pkcs_padding	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:271:5:mbedtls_pem_read_buffer	88	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:485:6:mbedtls_pem_free	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pem.c:501:5:mbedtls_pem_write_buffer	64	static

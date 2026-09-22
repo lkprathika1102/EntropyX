@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "drivers/mcx_spc",
+		"source" : "C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/mcx_spc"
+	}
+}

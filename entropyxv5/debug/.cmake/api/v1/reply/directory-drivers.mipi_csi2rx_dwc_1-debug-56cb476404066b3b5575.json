@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "drivers/mipi_csi2rx_dwc_1",
+		"source" : "C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/mipi_csi2rx_dwc_1"
+	}
+}

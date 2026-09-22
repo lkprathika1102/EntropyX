@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "devices/MCX/MCXN/MCXN947/drivers/romapi",
+		"source" : "C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/devices/MCX/MCXN/MCXN947/drivers/romapi"
+	}
+}

@@ -1,0 +1,6 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:425:30:psa_get_key_type	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ffdh.c:30:21:mbedtls_psa_ffdh_set_prime_generator	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ffdh.c:143:14:mbedtls_psa_ffdh_export_public_key	80	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ffdh.c:205:14:mbedtls_psa_ffdh_generate_key	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ffdh.c:241:14:mbedtls_psa_ffdh_import_key	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ffdh.c:261:14:mbedtls_psa_ffdh_key_agreement	80	static

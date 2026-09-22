@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "components/systick_timer",
+		"source" : "C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/systick_timer"
+	}
+}

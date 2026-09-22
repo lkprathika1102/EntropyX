@@ -1,0 +1,8 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:425:30:psa_get_key_type	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:441:22:psa_get_key_bits	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:274:38:mcuxClKey_getLoadStatus	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:120:26:mcuxClPkc_inline_getPointerToPkcRamStart	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_export_public_key.c:34:28:mcuxClPsaDriver_psa_driver_wrapper_export_key_buffer_internal	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_export_public_key.c:74:28:mcuxClPsaDriver_psa_driver_wrapper_export_rsa_public_key	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_export_public_key.c:134:28:mcuxClPsaDriver_psa_driver_wrapper_export_ecp_public_key	1416	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_export_public_key.c:429:14:mcuxClPsaDriver_psa_driver_wrapper_export_public_key	104	static

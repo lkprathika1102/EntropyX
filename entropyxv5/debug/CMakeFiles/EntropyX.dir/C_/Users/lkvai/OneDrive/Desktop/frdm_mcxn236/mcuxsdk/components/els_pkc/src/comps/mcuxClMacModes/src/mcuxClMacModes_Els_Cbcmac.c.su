@@ -1,0 +1,9 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:188:39:mcuxClKey_getAlgorithm	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:211:25:mcuxClKey_getLoadedKeyData	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:253:24:mcuxClKey_getLoadedKeySlot	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:274:38:mcuxClKey_getLoadStatus	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cbcmac.c:41:49:mcuxClMacModes_Engine_CBCMAC_Oneshot	280	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cbcmac.c:196:49:mcuxClMacModes_Engine_CBCMAC_Init	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cbcmac.c:234:49:mcuxClMacModes_Engine_CBCMAC_Update	248	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cbcmac.c:369:49:mcuxClMacModes_Engine_CBCMAC_Finalize	184	static

@@ -1,0 +1,6 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:90:25:mcuxClPkc_inline_offset2Ptr	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:104:26:mcuxClPkc_inline_offset2PtrWord	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:184:20:mcuxClPkc_inline_waitForFinish	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:198:24:mcuxClPkc_inline_waitForFinishGetStatus	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_EdDSA_Internal_DecodePoint_Ed25519.c:57:49:mcuxClEcc_EdDSA_DecodePoint_Ed25519	240	static

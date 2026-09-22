@@ -1,0 +1,12 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:73:10:DbgConsole_Init	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:108:10:DbgConsole_Deinit	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:122:10:DbgConsole_EnterLowpower	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:133:10:DbgConsole_ExitLowpower	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:147:5:DbgConsole_Printf	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:160:5:DbgConsole_Vprintf	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:176:5:DbgConsole_Putchar	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:189:5:DbgConsole_Scanf	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:249:5:DbgConsole_Getchar	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:276:13:DbgConsole_PrintfPaddingCharacter	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:299:16:DbgConsole_ConvertRadixNumToString	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/debug_console_lite/fsl_debug_console.c:567:12:DbgConsole_PrintfFormattedData	120	static

@@ -1,0 +1,6 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:40:20:mcuxClPkc_inline_setUptrt	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:164:24:mcuxClPkc_inline_ps1_getOplen	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMath/inc/internal/mcuxClMath_Internal_Utils.h:34:24:mcuxClMath_CountLeadingZerosWord	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMath/src/mcuxClMath_QDash.c:54:35:mcuxClMath_QDash	112	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMath/src/mcuxClMath_QDash.c:126:35:mcuxClMath_QSquared	40	static

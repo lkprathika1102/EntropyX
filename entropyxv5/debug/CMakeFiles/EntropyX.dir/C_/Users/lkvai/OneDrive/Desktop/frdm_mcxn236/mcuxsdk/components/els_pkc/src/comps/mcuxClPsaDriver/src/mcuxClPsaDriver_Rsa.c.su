@@ -1,0 +1,7 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:441:22:psa_get_key_bits	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:120:26:mcuxClPkc_inline_getPointerToPkcRamStart	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandom/inc/internal/mcuxClRandom_Internal_Functions.h:76:38:mcuxClRandom_castToContext	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRsa/inc/internal/mcuxClRsa_Internal_Functions.h:1564:30:mcuxClRsa_castToRsaKey	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Rsa.c:38:21:mcuxClPsaDriver_psa_driver_wrapper_computeRsa_D	248	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Rsa.c:183:21:mcuxClPsaDriver_psa_driver_wrapper_rsa_key_der	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Rsa.c:360:14:mcuxClPsaDriver_psa_driver_wrapper_rsa_key	4264	static

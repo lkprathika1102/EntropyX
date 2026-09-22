@@ -1,0 +1,3 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClTrng/src/mcuxClTrng_ELS.c:27:50:mcuxClTrng_Init	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClTrng/src/mcuxClTrng_ELS.c:43:57:mcuxClTrng_getEntropyInput_fullBlocks	120	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClTrng/src/mcuxClTrng_ELS.c:99:50:mcuxClTrng_getEntropyInput	224	static

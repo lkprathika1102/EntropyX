@@ -1,0 +1,3 @@
+[submodule "entropy-x"]
+	path = entropy-x
+	url = https://github.com/lkprathika1102/EntropyX.git

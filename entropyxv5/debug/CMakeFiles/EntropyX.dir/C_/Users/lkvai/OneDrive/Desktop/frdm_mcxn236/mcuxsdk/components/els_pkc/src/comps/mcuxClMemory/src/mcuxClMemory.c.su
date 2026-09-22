@@ -1,0 +1,5 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c:52:35:mcuxClMemory_copy	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c:217:35:mcuxClMemory_copy_reversed	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c:330:35:mcuxClMemory_set	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c:391:35:mcuxClMemory_clear	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c:401:35:mcuxClMemory_xor	48	static

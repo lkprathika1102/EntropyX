@@ -1,0 +1,4 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:109:25:mcuxClSession_allocateWords_pkcWa	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:168:20:mcuxClSession_freeWords_pkcWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/inc/internal/mcuxClBuffer_Internal_Pointer.h:82:66:mcuxClBuffer_read	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRsa/src/mcuxClRsa_PssEncode.c:74:49:mcuxClRsa_pssEncode	296	static

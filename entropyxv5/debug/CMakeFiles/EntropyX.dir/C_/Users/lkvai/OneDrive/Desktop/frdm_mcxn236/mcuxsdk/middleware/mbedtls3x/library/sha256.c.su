@@ -1,0 +1,12 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:228:6:mbedtls_sha256_init	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:233:6:mbedtls_sha256_free	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:242:6:mbedtls_sha256_clone	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:251:5:mbedtls_sha256_starts	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:495:5:mbedtls_internal_sha256_process	328	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:585:15:mbedtls_internal_sha256_process_many	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:648:5:mbedtls_sha256_update	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:703:5:mbedtls_sha256_finish	120	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:776:5:mbedtls_sha256	136	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:881:12:mbedtls_sha256_common_self_test	184	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:968:5:mbedtls_sha256_self_test	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/sha256.c:975:5:mbedtls_sha224_self_test	16	static

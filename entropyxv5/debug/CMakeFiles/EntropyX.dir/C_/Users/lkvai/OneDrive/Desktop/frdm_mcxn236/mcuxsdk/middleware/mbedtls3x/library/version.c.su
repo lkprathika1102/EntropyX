@@ -1,0 +1,3 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/version.c:15:14:mbedtls_version_get_number	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/version.c:20:6:mbedtls_version_get_string	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/version.c:26:6:mbedtls_version_get_string_full	16	static

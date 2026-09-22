@@ -1,0 +1,5 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:75:24:mcuxClPkc_inline_ptr2Offset	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:104:26:mcuxClPkc_inline_offset2PtrWord	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_UPTRT.c:33:35:mcuxClPkc_GenerateUPTRT	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_UPTRT.c:58:49:mcuxClPkc_RandomizeUPTRT	88	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_UPTRT.c:100:49:mcuxClPkc_ReRandomizeUPTRT	104	static

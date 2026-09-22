@@ -1,0 +1,8 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/devices/MCX/MCXN/MCXN236/drivers/fsl_clock.h:1235:20:CLOCK_EnableClock	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/port/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/ssd1306.c:76:13:oled_write_cmd	48	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/ssd1306.c:88:6:ssd1306_init	40	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/ssd1306.c:137:6:ssd1306_clear	8	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/ssd1306.c:141:6:ssd1306_update	56	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/ssd1306.c:164:6:ssd1306_draw_string	24	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/ssd1306.c:183:6:ssd1306_display_dashboard	120	static

@@ -1,0 +1,7 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:85:33:mbedtls_ct_compiler_opaque	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:391:29:mbedtls_ct_uchar_in_range_if	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/base64.c:26:15:mbedtls_ct_base64_enc_char	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/base64.c:41:13:mbedtls_ct_base64_dec_value	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/base64.c:61:5:mbedtls_base64_encode	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/base64.c:128:5:mbedtls_base64_decode	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/base64.c:277:5:mbedtls_base64_self_test	160	static

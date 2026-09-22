@@ -1,0 +1,3 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:164:24:mcuxClPkc_inline_ps1_getOplen	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:198:24:mcuxClPkc_inline_waitForFinishGetStatus	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_Internal_BlindedScalarMult.c:66:49:mcuxClEcc_BlindedScalarMult	184	static

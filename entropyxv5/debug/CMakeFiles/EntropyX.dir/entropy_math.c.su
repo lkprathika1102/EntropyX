@@ -1,0 +1,3 @@
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/entropy_math.c:5:6:entropy_accumulate	32	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/entropy_math.c:35:14:entropy_run_nist_eval	112	static
+C:/Users/lkvai/OneDrive/Desktop/EntropyXv5/entropyxv5/entropy_math.c:91:6:entropy_toeplitz_extract	32	static

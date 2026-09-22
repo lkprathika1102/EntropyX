@@ -1,0 +1,11 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHash/inc/internal/mcuxClHash_Internal.h:161:20:mcuxClHash_processedLength_toBits	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHash/inc/internal/mcuxClHash_Internal.h:193:25:mcuxClHash_getStatePtr	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHash/inc/internal/mcuxClHash_Internal.h:215:25:mcuxClHash_getUnprocessedPtr	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHashModes/inc/internal/mcuxClHashModes_Internal.h:101:20:mcuxClHashModes_internal_c_switchEndiannessOfBufferWords	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:52:25:mcuxClSession_allocateWords_cpuWa	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/inc/internal/mcuxClBuffer_Internal_Pointer.h:82:66:mcuxClBuffer_read	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/inc/internal/mcuxClBuffer_Internal_Pointer.h:191:66:mcuxClBuffer_write	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHashModes/src/mcuxClHashModes_Internal_c_sha1.c:53:57:mcuxClHashModes_C_oneShot_Sha1	232	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHashModes/src/mcuxClHashModes_Internal_c_sha1.c:206:57:mcuxClHashModes_C_process_Sha1	144	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHashModes/src/mcuxClHashModes_Internal_c_sha1.c:303:57:mcuxClHashModes_C_finish_Sha1	192	static

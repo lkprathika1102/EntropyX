@@ -1,0 +1,16 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/md.h:246:29:mbedtls_md_get_size_from_type	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/psa_util.h:138:33:mbedtls_md_type_from_psa_alg	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:42:21:psa_check_rsa_key_byte_aligned	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:59:14:mbedtls_psa_rsa_load_representation	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:109:14:mbedtls_psa_rsa_import_key	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:151:14:mbedtls_psa_rsa_export_key	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:190:14:mbedtls_psa_rsa_export_public_key	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:217:21:psa_rsa_read_exponent	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:240:14:mbedtls_psa_rsa_generate_key	168	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:287:21:psa_rsa_decode_md_type	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:316:14:mbedtls_psa_rsa_sign_hash	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:393:12:rsa_pss_expected_salt_len	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:415:14:mbedtls_psa_rsa_verify_hash	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:499:12:psa_rsa_oaep_set_padding_mode	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:515:14:mbedtls_psa_asymmetric_encrypt	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_rsa.c:609:14:mbedtls_psa_asymmetric_decrypt	56	static

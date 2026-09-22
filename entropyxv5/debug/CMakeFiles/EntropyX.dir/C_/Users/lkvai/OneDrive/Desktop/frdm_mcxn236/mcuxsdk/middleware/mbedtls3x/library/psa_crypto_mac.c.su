@@ -1,0 +1,17 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:425:30:psa_get_key_type	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:441:22:psa_get_key_bits	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:24:21:psa_hmac_abort_internal	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:31:21:psa_hmac_setup_internal	192	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:103:21:psa_hmac_update_internal	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:111:21:psa_hmac_finish_internal	104	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:157:21:cmac_setup	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:202:21:mac_init	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:234:14:mbedtls_psa_mac_abort	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:271:21:psa_mac_setup	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:319:14:mbedtls_psa_mac_sign_setup	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:330:14:mbedtls_psa_mac_verify_setup	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:341:14:mbedtls_psa_mac_update	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:372:21:psa_mac_finish_internal	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:403:14:mbedtls_psa_mac_sign_finish	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:423:14:mbedtls_psa_mac_verify_finish	96	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_mac.c:455:14:mbedtls_psa_mac_compute	432	static

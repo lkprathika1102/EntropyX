@@ -1,0 +1,4 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHmac/src/mcuxClHmac_Functions.c:33:49:mcuxClHmac_compute	672	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHmac/src/mcuxClHmac_Functions.c:61:49:mcuxClHmac_init	80	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHmac/src/mcuxClHmac_Functions.c:81:49:mcuxClHmac_process	88	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClHmac/src/mcuxClHmac_Functions.c:101:49:mcuxClHmac_finish	88	static

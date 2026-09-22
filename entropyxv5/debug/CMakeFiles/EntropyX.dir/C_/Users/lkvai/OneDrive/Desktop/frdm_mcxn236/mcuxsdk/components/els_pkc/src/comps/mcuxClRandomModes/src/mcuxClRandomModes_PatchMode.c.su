@@ -1,0 +1,5 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_PatchMode.c:57:52:mcuxClRandomModes_createPatchMode	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_PatchMode.c:78:52:mcuxClRandomModes_PatchMode_initFunction	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_PatchMode.c:93:52:mcuxClRandomModes_PatchMode_reseedFunction	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_PatchMode.c:109:52:mcuxClRandomModes_PatchMode_generateFunction	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_PatchMode.c:137:52:mcuxClRandomModes_PatchMode_selftestFunction	24	static

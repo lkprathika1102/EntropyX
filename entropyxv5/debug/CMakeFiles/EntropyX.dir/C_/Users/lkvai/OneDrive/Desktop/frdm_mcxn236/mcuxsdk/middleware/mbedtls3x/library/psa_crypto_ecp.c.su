@@ -1,0 +1,11 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/psa_util.h:138:33:mbedtls_md_type_from_psa_alg	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:40:12:check_ecc_parameters	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:90:14:mbedtls_psa_ecp_load_representation	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:209:14:mbedtls_psa_ecp_import_key	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:251:14:mbedtls_psa_ecp_export_key	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:290:14:mbedtls_psa_ecp_export_public_key	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:320:14:mbedtls_psa_ecp_generate_key	160	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:363:14:mbedtls_psa_ecdsa_sign_hash	88	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:434:14:mbedtls_psa_ecp_load_public_part	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:449:14:mbedtls_psa_ecdsa_verify_hash	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/psa_crypto_ecp.c:519:14:mbedtls_psa_key_agreement_ecdh	216	static

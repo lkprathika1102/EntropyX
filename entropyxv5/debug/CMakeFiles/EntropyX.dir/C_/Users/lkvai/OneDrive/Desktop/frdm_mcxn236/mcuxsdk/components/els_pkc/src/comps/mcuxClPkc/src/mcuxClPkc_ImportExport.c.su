@@ -1,0 +1,14 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:90:25:mcuxClPkc_inline_offset2Ptr	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:104:26:mcuxClPkc_inline_offset2PtrWord	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:164:24:mcuxClPkc_inline_ps1_getOplen	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/inc/internal/mcuxClPkc_Inline_Functions.h:184:20:mcuxClPkc_inline_waitForFinish	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:58:35:mcuxClPkc_SwitchEndianness	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:166:35:mcuxClPkc_ImportBigEndianToPkc	80	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:212:35:mcuxClPkc_ImportLittleEndianToPkc	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:247:35:mcuxClPkc_ExportBigEndianFromPkc	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:286:35:mcuxClPkc_ExportLittleEndianFromPkc	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:314:49:mcuxClPkc_SecureImportBigEndianToPkc	168	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:402:49:mcuxClPkc_SecureImportLittleEndianToPkc	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:439:49:mcuxClPkc_SecureExportBigEndianFromPkc	152	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPkc/src/mcuxClPkc_ImportExport.c:523:49:mcuxClPkc_SecureExportLittleEndianFromPkc	64	static

@@ -1,0 +1,16 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:61:20:mcuxClEls_setInput0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:78:20:mcuxClEls_setInput1_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:103:20:mcuxClEls_setInput2Offset_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:116:20:mcuxClEls_setOutput_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:122:20:mcuxClEls_setKeystoreIndex0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:129:20:mcuxClEls_setKeystoreIndex1	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:136:20:mcuxClEls_setKeystoreIndex2	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:143:20:mcuxClEls_setRequestedKeyProperties	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:149:20:mcuxClEls_startCommand	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:182:20:mcuxClEls_isBusy	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_KeyManagement.c:31:63:mcuxClEls_KeyDelete_Async	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_KeyManagement.c:76:63:mcuxClEls_KeyImport_Async	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_KeyManagement.c:106:63:mcuxClEls_KeyImportPuk_Async	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_KeyManagement.c:149:49:mcuxClEls_handleKeyExportError	80	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_KeyManagement.c:174:63:mcuxClEls_KeyExport_Async	352	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_KeyManagement.c:332:63:mcuxClEls_GetKeyProperties	56	static

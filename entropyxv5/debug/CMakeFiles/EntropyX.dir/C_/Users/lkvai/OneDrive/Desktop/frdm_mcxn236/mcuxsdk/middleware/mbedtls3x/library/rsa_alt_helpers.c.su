@@ -1,0 +1,5 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/rsa_alt_helpers.c:51:5:mbedtls_rsa_deduce_primes	128	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/rsa_alt_helpers.c:183:5:mbedtls_rsa_deduce_private_exponent	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/rsa_alt_helpers.c:233:5:mbedtls_rsa_deduce_crt	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/rsa_alt_helpers.c:267:5:mbedtls_rsa_validate_params	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/rsa_alt_helpers.c:380:5:mbedtls_rsa_validate_crt	48	static

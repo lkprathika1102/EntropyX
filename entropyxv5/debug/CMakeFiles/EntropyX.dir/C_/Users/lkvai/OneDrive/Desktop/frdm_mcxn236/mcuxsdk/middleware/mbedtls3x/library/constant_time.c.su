@@ -1,0 +1,15 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:85:33:mbedtls_ct_compiler_opaque	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:120:38:mbedtls_ct_bool	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:205:33:mbedtls_ct_if	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:271:38:mbedtls_ct_uint_lt	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:382:38:mbedtls_ct_uint_ne	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:418:24:mbedtls_ct_uint_if	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:451:24:mbedtls_ct_uint_if_else_0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:489:38:mbedtls_ct_uint_eq	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time_impl.h:495:38:mbedtls_ct_uint_gt	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time.c:48:24:mbedtls_get_unaligned_volatile_uint32	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time.c:67:5:mbedtls_ct_memcmp	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time.c:150:6:mbedtls_ct_memmove_left	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time.c:169:6:mbedtls_ct_memcpy_if	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time.c:214:6:mbedtls_ct_memcpy_offset	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/constant_time.c:231:6:mbedtls_ct_zeroize_if	56	static

@@ -1,0 +1,4 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/inc/internal/mcuxClBuffer_Internal_Pointer.h:82:66:mcuxClBuffer_read	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/inc/internal/mcuxClBuffer_Internal_Pointer.h:191:66:mcuxClBuffer_write	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/src/mcuxClBuffer.c:30:52:mcuxClBuffer_export	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClBuffer/src/mcuxClBuffer.c:40:52:mcuxClBuffer_import	72	static
