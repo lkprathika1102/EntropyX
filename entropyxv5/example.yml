@@ -1,0 +1,18 @@
+hello_world:
+  boards:
+    frdmmcxn236: []
+  contents:
+    document:
+      brief: The HelloWorld demo prints the "Hello World" string to the terminal using
+        the SDK UART drivers and repeat what user input. The purpose of this demo
+        is to show how to use the UART, and to provide a simple project for debugging
+        and further development.
+      category: demo_apps
+      example_readme:
+      - examples/demo_apps/hello_world/readme.md
+      - ${board_root}/${board}/demo_apps/hello_world/example_board_readme.md
+      - ${board_root}/${board}/examples_shared_readme.md
+      name: hello_world${core_id_suffix_name}
+    meta_path: examples/demo_apps/hello_world
+    project-root-path: boards/${board}/demo_apps/hello_world/${multicore_foldername}
+  section-type: freestanding_application

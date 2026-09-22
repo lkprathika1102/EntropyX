@@ -1,0 +1,13 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:61:20:mcuxClEls_setInput0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:70:20:mcuxClEls_setInput0_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:116:20:mcuxClEls_setOutput_fixedSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:122:20:mcuxClEls_setKeystoreIndex0	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:129:20:mcuxClEls_setKeystoreIndex1	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:143:20:mcuxClEls_setRequestedKeyProperties	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:149:20:mcuxClEls_startCommand	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/inc/internal/mcuxClEls_Internal.h:182:20:mcuxClEls_isBusy	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_Kdf.c:29:63:mcuxClEls_Ckdf_Sp800108_Async	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_Kdf.c:59:63:mcuxClEls_Hkdf_Rfc5869_Async	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_Kdf.c:87:63:mcuxClEls_Hkdf_Sp80056c_Async	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_Kdf.c:115:63:mcuxClEls_TlsGenerateMasterKeyFromPreMasterKey_Async	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClEls/src/mcuxClEls_Kdf.c:141:63:mcuxClEls_TlsGenerateSessionKeysFromMasterKey_Async	64	static

@@ -1,0 +1,10 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:52:25:mcuxClSession_allocateWords_cpuWa	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClSession/inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:42:46:mcuxClRandomModes_CtrDrbg_incV	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:86:52:mcuxClRandomModes_CtrDrbg_bcc	136	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:185:52:mcuxClRandomModes_CtrDrbg_df	312	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:470:52:mcuxClRandomModes_CtrDrbg_instantiateAlgorithm	184	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:617:52:mcuxClRandomModes_CtrDrbg_reseedAlgorithm	176	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:748:52:mcuxClRandomModes_CtrDrbg_generateAlgorithm	152	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:847:52:mcuxClRandomModes_CtrDrbg_UpdateState	176	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandomModes/src/mcuxClRandomModes_CtrDrbg.c:954:52:mcuxClRandomModes_CtrDrbg_generateOutput	248	static

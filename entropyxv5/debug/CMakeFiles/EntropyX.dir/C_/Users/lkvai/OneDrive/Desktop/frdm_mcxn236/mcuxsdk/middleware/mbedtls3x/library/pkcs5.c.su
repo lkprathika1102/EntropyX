@@ -1,0 +1,10 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/cipher.h:484:22:mbedtls_cipher_info_get_key_bitlen	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/cipher.h:525:22:mbedtls_cipher_info_get_iv_size	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/error.h:142:19:mbedtls_error_add	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:40:12:pkcs5_parse_pbkdf2_params	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:113:5:mbedtls_pkcs5_pbes2	56	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:129:5:mbedtls_pkcs5_pbes2_ext	288	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:268:12:pkcs5_pbkdf2_hmac	224	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:358:5:mbedtls_pkcs5_pbkdf2_hmac	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:369:5:mbedtls_pkcs5_pbkdf2_hmac_ext	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs5.c:460:5:mbedtls_pkcs5_self_test	112	static

@@ -1,0 +1,14 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:425:30:psa_get_key_type	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:441:22:psa_get_key_bits	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:82:25:mcuxClKey_getAuxData	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:188:39:mcuxClKey_getAlgorithm	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/inc/internal/mcuxClPsaDriver_Functions.h:522:37:mcuxClPsaDriver_castAuxDataToKeyAttributes	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:39:47:mcuxClPsaDriver_getClnsData_macType	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:52:14:mcuxClPsaDriver_psa_driver_wrapper_mac_updateLayer	168	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:121:14:mcuxClPsaDriver_psa_driver_wrapper_mac_computeLayer	776	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:247:14:mcuxClPsaDriver_psa_driver_wrapper_mac_finalizeLayer	176	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:321:36:mcuxClPsaDriver_psa_driver_wrapper_mac_getMode	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:362:21:mcuxClPsaDriver_psa_driver_wrapper_mac_setupLayer_internal	168	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:425:14:mcuxClPsaDriver_psa_driver_wrapper_mac_setupLayer	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_Mac.c:466:14:mcuxClPsaDriver_psa_driver_wrapper_mac_abort	40	static

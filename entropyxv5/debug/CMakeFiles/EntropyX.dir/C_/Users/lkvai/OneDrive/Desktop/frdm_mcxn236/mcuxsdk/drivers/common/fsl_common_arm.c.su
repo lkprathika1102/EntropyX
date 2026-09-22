@@ -1,0 +1,4 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/common/fsl_common_arm.c:126:6:MSDK_EnableCpuCycleCounter	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/common/fsl_common_arm.c:151:10:MSDK_GetCpuCycleCount	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/common/fsl_common_arm.c:187:13:DelayLoop	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/common/fsl_common_arm.c:217:6:SDK_DelayAtLeastUs	40	static

@@ -1,0 +1,6 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/psa/crypto_struct.h:377:34:psa_get_key_lifetime	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClKey/inc/internal/mcuxClKey_Functions_Internal.h:82:25:mcuxClKey_getAuxData	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/inc/internal/mcuxClPsaDriver_Functions.h:522:37:mcuxClPsaDriver_castAuxDataToKeyAttributes	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_UpdateKeyStatus.c:23:14:mcuxClPsaDriver_psa_driver_wrapper_UpdateKeyStatusSuspend	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_UpdateKeyStatus.c:42:14:mcuxClPsaDriver_psa_driver_wrapper_UpdateKeyStatusResume	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClPsaDriver/src/mcuxClPsaDriver_UpdateKeyStatus.c:61:14:mcuxClPsaDriver_psa_driver_wrapper_UpdateKeyStatusUnload	24	static

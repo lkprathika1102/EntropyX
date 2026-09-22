@@ -1,0 +1,2 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/platform_util.c:94:6:mbedtls_platform_zeroize	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/platform_util.c:139:6:mbedtls_zeroize_and_free	16	static

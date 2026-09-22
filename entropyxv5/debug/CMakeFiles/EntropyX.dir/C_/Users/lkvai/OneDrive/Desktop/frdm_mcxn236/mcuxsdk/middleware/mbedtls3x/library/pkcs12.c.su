@@ -1,0 +1,11 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/md.h:246:29:mbedtls_md_get_size_from_type	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/cipher.h:484:22:mbedtls_cipher_info_get_key_bitlen	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/cipher.h:525:22:mbedtls_cipher_info_get_iv_size	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/include/mbedtls/error.h:142:19:mbedtls_error_add	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:36:12:pkcs12_parse_pbe_params	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:76:12:pkcs12_pbe_derive_key_iv	336	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:132:5:mbedtls_pkcs12_pbe	64	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:150:5:mbedtls_pkcs12_pbe_ext	192	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:245:13:pkcs12_fill_buffer	32	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:268:12:calculate_hashes	48	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/library/pkcs12.c:326:5:mbedtls_pkcs12_derivation	664	static

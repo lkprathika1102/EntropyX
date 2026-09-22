@@ -1,0 +1,3 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandom/src/mcuxClRandom_PRNG.c:27:52:mcuxClRandom_ncPatch	40	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandom/src/mcuxClRandom_PRNG.c:47:52:mcuxClRandom_ncInit	72	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClRandom/src/mcuxClRandom_PRNG.c:79:52:mcuxClRandom_ncGenerate	96	static

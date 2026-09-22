@@ -1,0 +1,4 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClCipher/src/mcuxClCipher.c:31:52:mcuxClCipher_crypt	120	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClCipher/src/mcuxClCipher.c:79:52:mcuxClCipher_init	120	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClCipher/src/mcuxClCipher.c:121:52:mcuxClCipher_process	120	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/components/els_pkc/src/comps/mcuxClCipher/src/mcuxClCipher.c:165:52:mcuxClCipher_finish	120	static

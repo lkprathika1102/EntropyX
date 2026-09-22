@@ -1,0 +1,2 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/port/hw_init/hw_init.c:27:13:mbedtls_mcux_rng_init	0	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/middleware/mbedtls3x/port/hw_init/hw_init.c:60:10:CRYPTO_InitHardware	8	static

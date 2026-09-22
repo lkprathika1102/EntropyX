@@ -1,0 +1,15 @@
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/devices/MCX/MCXN/MCXN236/drivers/fsl_clock.h:1235:20:CLOCK_EnableClock	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/devices/MCX/MCXN/MCXN236/drivers/fsl_clock.h:1269:20:CLOCK_DisableClock	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.h:346:20:GPIO_PinWrite	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:106:17:GPIO_GetInstance	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:130:13:GPIO_PortClockEnable	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:157:6:GPIO_PortInit	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:173:6:GPIO_PortDenit	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:204:6:GPIO_PinInit	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:226:6:GPIO_GetVersionInfo	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:267:10:GPIO_GpioGetInterruptFlags	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:281:10:GPIO_GpioGetInterruptChannelFlags	16	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:294:9:GPIO_PinGetInterruptFlag	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:323:6:GPIO_GpioClearInterruptFlags	8	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:336:6:GPIO_GpioClearInterruptChannelFlags	24	static
+C:/Users/lkvai/OneDrive/Desktop/frdm_mcxn236/mcuxsdk/drivers/gpio/fsl_gpio.c:348:6:GPIO_PinClearInterruptFlag	8	static
