@@ -1,5 +1,5 @@
 # EntropyX
-## Completed in over 60 hours
+## Completed in over 64 hours
 
 Date- 6sept
 
@@ -153,5 +153,8 @@ Wrote a complete HTML Web Serial application from scratch to connect directly to
 
 so this is how my project was made with over 60 hours of gruelling effort
 
+Date- 25sept
 
+Time Spent- 3.5 hours
+For recording the video demonstrations, completing the readme.md, the ppt, the guides, the journal.md
 
