@@ -2,6 +2,45 @@
 # EntropyX:
 ## A Physical True Random Number Generator (TRNG) with Embedded NIST SP 800-90B Min-Entropy Estimation and Toeplitz Universal Hash Extraction
 
+
+
+
+## Table of Contents
+
+- [Abstract](#abstract)
+- [1. System Architecture](#1-system-architecture)
+  - [1.1 State Machine Determinism vs. Physical Entropy](#11-state-machine-determinism-vs-physical-entropy)
+  - [1.2 Threat Model \& Active Physical Defenses](#12-threat-model--active-physical-defenses)
+- [2. Active Sensor Channels \& Harvesting Mechanics](#2-active-sensor-channels--harvesting-mechanics)
+- [3. Firmware Signal Conditioning \& Mathematical Whitening](#3-firmware-signal-conditioning--mathematical-whitening)
+  - [3.1 First-Order Difference Filter (Gravity \& Baseline Cancellation)](#31-first-order-difference-filter-gravity--baseline-cancellation)
+  - [3.2 High-Frequency Core Clock Jitter Mixing](#32-high-frequency-core-clock-jitter-mixing)
+  - [3.3 Von Neumann Transition Extraction](#33-von-neumann-transition-extraction)
+- [4. On-Chip NIST Statistical Qualification Layer](#4-on-chip-nist-statistical-qualification-layer)
+  - [4.1 NIST SP 800-90B Min-Entropy Calculation](#41-nist-sp-800-90b-min-entropy-calculation)
+  - [4.2 Inline NIST SP 800-22 Hypothesis Testing ($\alpha = 0.01$)](#42-inline-nist-sp-800-22-hypothesis-testing-\alpha--001)
+- [5. Information-Theoretic Randomness Extraction](#5-information-theoretic-randomness-extraction)
+  - [5.1 Toeplitz Matrix Universal Hash Formulation](#51-toeplitz-matrix-universal-hash-formulation)
+  - [5.2 Galois LFSR Seed Generation](#52-galois-lfsr-seed-generation)
+  - [5.3 Leftover Hash Lemma Security Bound](#53-leftover-hash-lemma-security-bound)
+  - [5.4 Hardware-Accelerated SHA-256 Conditioning](#54-hardware-accelerated-sha-256-conditioning)
+- [6. Avalanche Criterion \& Hamming Verification](#6-avalanche-criterion--hamming-verification)
+- [7. Hardware Wiring \& Bill of Materials](#7-hardware-wiring--bill-of-materials)
+  - [7.1 Pin-to-Pin Hardware Connections](#71-pin-to-pin-hardware-connections)
+  - [7.2 Bill of Materials (BOM)](#72-bill-of-materials-bom)
+- [8. Comparative Analysis](#8-comparative-analysis)
+- [9. Hardware Benchmarks](#9-hardware-benchmarks)
+  - [9.1 Operating Profile](#91-operating-profile)
+  - [9.2 Statistical Test Results ($10^6$ Bit Evaluation)](#92-statistical-test-results-106-bit-evaluation)
+  - [9.3 Web Dashboard](#93-web-dashboard)
+- [10. Practical Cryptographic Applications](#10-practical-cryptographic-applications)
+- [11. Regulatory Standards \& Academic References](#11-regulatory-standards--academic-references)
+- [12. Glossary of Terms](#12-glossary-of-terms)
+
+
+
+
+
 ### Abstract
 
 Software Pseudo-Random Number Generators (PRNGs) rely on predictable algorithms. When initialized with predictable system data like as clock timestamps or memory , the entire sequence of cryptographic keys can be computed by an enemy. Today’s Commercial Hardware Security Modules (HSMs) address this using physical noise sources, but they cost hella lot....between 20000$ and 50000$ function as closedsourceboxes, and do not show internal entropy metrics in real time.
