@@ -137,6 +137,7 @@ so this is how my project was made with over 60 hours of gruelling effort
 **Total time spent: 2 hours**
 
 # Sept 25: Created video demonstrations and final documentation
+<img width="1007" height="568" alt="Screen Shot 2026-10-03 at 19 40 56 PM" src="https://github.com/user-attachments/assets/a5a01dd8-f648-4d05-8ced-ca29d90ea9d1" />
 
 For recording the video demonstrations, completing the readme.md, the ppt, the guides, the journal.md
 https://drive.google.com/file/d/1pVwUifi--L539-WKeUtXxB8Pm3j9NlTL/view?usp=share_link
