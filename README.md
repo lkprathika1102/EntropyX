@@ -1,4 +1,4 @@
-# EntropyX
+
 # EntropyX:
 ## A Physical True Random Number Generator (TRNG) with Embedded NIST SP 800-90B Min-Entropy Estimation and Toeplitz Universal Hash Extraction
 
