@@ -2,6 +2,10 @@
 # EntropyX:
 ## A Physical True Random Number Generator (TRNG) with Embedded NIST SP 800-90B Min-Entropy Estimation and Toeplitz Universal Hash Extraction
 
+I love mathematics and here is one of my other math heavy project, so this is basically  a Physical True Random Number Generator (TRNG) with Embedded NIST SP 800-90B Min-Entropy Estimation and Toeplitz Universal Hash Extraction that I made using the FRDM MCXN236 as the main microcontroller, and in simple words it creates SHA256 encrypted keys based on the physical data that has been obtained from the environment.
+
+This project was not lapsed because of the parental controls that were set up on my laptop that restricted me from allowing any third party app from recording or controlling my device, this is only because of my laptop, whereas my mac mini would have no such issues
+the only reason I was forced to use my windows laptop was because of the GDP LinkSever Issue On The MCUXpresso that I kept facing on my macos, which soon  dissappeared on my windows laptop. Hope you understand
 
 
 
