@@ -7,7 +7,8 @@ I love mathematics and here is one of my other math heavy project, so this is ba
 This project was not lapsed because of the parental controls that were set up on my laptop that restricted me from allowing any third party app from recording or controlling my device, this is only because of my laptop, whereas my mac mini would have no such issues
 the only reason I was forced to use my windows laptop was because of the GDP LinkSever Issue On The MCUXpresso that I kept facing on my macos, which soon  dissappeared on my windows laptop. Hope you understand
 
-
+## Video Demo
+https://drive.google.com/file/d/1pVwUifi--L539-WKeUtXxB8Pm3j9NlTL/view?usp=share_link
 
 ## Table of Contents
 
