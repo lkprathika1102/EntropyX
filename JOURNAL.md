@@ -5,7 +5,7 @@ description: "A hardware security and entropy generation project built on NXP MC
 created_at: "2026-09-06"
 ---
 
-
+also sorry if my journals are a bit crappy, I first forgot to save it while building my project, so had to wrte it altogether at oncee
 
 
 # Sept 6: Initialised project and encountered debugger issues
